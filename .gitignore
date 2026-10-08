@@ -24,6 +24,3 @@ ENV/
 .env
 .env.*
 !.env.example
-
-# Datos locales
-datos/
